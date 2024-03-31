@@ -1,0 +1,18 @@
+{
+  "name": "issue-astro-i18n-redirect-root",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.5.10",
+    "@astrojs/node": "^8.2.5",
+    "astro": "^4.5.12",
+    "typescript": "^5.4.3"
+  }
+}
